@@ -1,2 +1,7 @@
 @import "reset.css";
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap')
+@import "https://fonts.googleapis.com/css?family=Open+Sans&display=swap";
+
+body {
+  overflow: hidden;
+  background-color: #000000;
+}
