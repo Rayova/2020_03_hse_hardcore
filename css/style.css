@@ -1,7 +1,24 @@
 @import "reset.css";
 @import "https://fonts.googleapis.com/css?family=Open+Sans&display=swap";
+@font-face {
+  font-family: "7TH"
+  font-weight: bold;
+  scr: url(.../fonts/7TH.TTf) format('truetype');
+}
 
 body {
   overflow: hidden;
   background-color: #000000;
+}
+
+main {
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  cursor: url("../img/cursor6.png"), auto;
+}
+.bar_7 {
+  position: absolute;
+  z-index: 1;
+  
 }
