@@ -3,7 +3,7 @@
 @font-face {
   font-family: "7TH"
   font-weight: bold;
-  scr: url(.../fonts/7TH.TTf) format('truetype');
+  scr: url(../fonts/7TH.TTf) format('truetype');
 }
 
 body {
@@ -30,5 +30,5 @@ main {
 
 }
 .icon_12{
-  
+
 }
