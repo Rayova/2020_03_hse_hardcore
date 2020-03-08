@@ -17,18 +17,71 @@ main {
   height: 100vh;
   cursor: url("../img/cursor6.png"), auto;
 }
-.bar_7 {
+.bar_14 {
   position: absolute;
   z-index: 1;
-  margin-top: -98vh;
-  margin-left: 14vw;
 }
-.bar_14{
-
+.field_3 {
+  position: absolute;
+  z-index: 1;
 }
-.field_3{
-
+.icon_12 {
+  position: absolute;
+  z-index: 1;
 }
-.icon_12{
-
+.pull_1 {
+  position: absolute;
+  z-index: 1;
+}
+.pull_2 {
+  position: absolute;
+  z-index: 1;
+}
+.pull_3 {
+  position: absolute;
+  z-index: 1;
+}
+.pull_4 {
+  position: absolute;
+  z-index: 1;
+}
+.tool_1 {
+  position: absolute;
+  z-index: 1;
+}
+.tool_2 {
+  position: absolute;
+  z-index: 1;
+}
+.tool_3 {
+  position: absolute;
+  z-index: 1;
+}
+.tool_4 {
+  position: absolute;
+  z-index: 1;
+}
+.rect_1 {
+  position: absolute;
+  z-index: 1;
+}
+.rect_2 {
+  position: absolute;
+  z-index: 1;
+}
+.rect_3 {
+  position: absolute;
+  z-index: 1;
+}
+.blocks_11 {
+  position: absolute;
+  z-index: 1;
+}
+.circle_13 {
+  position: absolute;
+  z-index: 1;
+}
+.field_78 {
+  position: absolute;
+  z-index: 1;
 }
