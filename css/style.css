@@ -28,6 +28,8 @@ main {
 .icon_12 {
   position: absolute;
   z-index: 1;
+  margin-top: -9vh;
+  margin-left: 3vw;
 }
 .pull_1 {
   position: absolute;
@@ -115,35 +117,35 @@ main {
   position: absolute;
   z-index: 1;
   margin-top: -16vh;
-  margin-left: 10vw;
+  margin-left: 80vw;
 }
 .run_185 {
   position: absolute;
   z-index: 1;
-  margin-top: -40vh;
-  margin-left: 5vw;
+  margin-top: -45vh;
+  margin-left: 80vw;
 }
 .run_186 {
   position: absolute;
   z-index: 1;
-  margin-top: -40vh;
-  margin-left: 5vw;
+  margin-top: -30vh;
+  margin-left: 68vw;
 }
 .run_187 {
   position: absolute;
   z-index: 1;
-  margin-top: -40vh;
-  margin-left: 5vw;
+  margin-top: -90vh;
+  margin-left: 78vw;
 }
 .run_188 {
   position: absolute;
   z-index: 1;
-  margin-top: -40vh;
+  margin-top: -15vh;
   margin-left: 5vw;
 }
 .run_189 {
   position: absolute;
   z-index: 1;
-  margin-top: -40vh;
+  margin-top: -100vh;
   margin-left: 5vw;
 }
