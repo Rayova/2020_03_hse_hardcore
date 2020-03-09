@@ -1,11 +1,11 @@
 // circle13
-let circleAnimation = anime({
-  targets: circle,
-  rotate: [0, 360],
-  easing: 'linear',
-  duration: 50000,
-  loop: true
-})
+// let circleAnimation = anime({
+//   targets: circle,
+//   rotate: [0, 360],
+//   easing: 'linear',
+//   duration: 50000,
+//   loop: true
+// })
 // runs
 // let runAnimation = anime({
 //   targets: run,
@@ -88,6 +88,7 @@ let circleAnimation = anime({
 //   duration: 2000
 // });
 
+// icon_12
 let iconAnimation = anime ({
   targets: icon,
   rotate: [0, 360],

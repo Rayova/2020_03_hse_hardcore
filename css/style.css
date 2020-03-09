@@ -78,6 +78,8 @@ main {
 .blocks_11 {
   position: absolute;
   z-index: 1;
+  margin-top: -58vh;
+  margin-left: 0vw;
 }
 .circle_13 {
   position: absolute;
