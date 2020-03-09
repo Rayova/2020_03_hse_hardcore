@@ -20,6 +20,9 @@ main {
 .bar_14 {
   position: absolute;
   z-index: 1;
+  margin-top: -16vh;
+  margin-left: 48vw;
+}
 }
 .field_3 {
   position: absolute;
@@ -76,14 +79,20 @@ main {
 .rect_1 {
   position: absolute;
   z-index: 1;
+  margin-top: -62vh;
+  margin-left: 95vw;
 }
 .rect_2 {
   position: absolute;
   z-index: 1;
+  margin-top: -45vh;
+  margin-left: 90vw;
 }
 .rect_3 {
   position: absolute;
   z-index: 1;
+  margin-top: -37vh;
+  margin-left: 85vw;
 }
 .blocks_11 {
   position: absolute;
