@@ -103,8 +103,9 @@ main {
 .circle_13 {
   position: absolute;
   z-index: 1;
-  margin-top: -32vh;
-  margin-left: 5vw;
+  margin-top: -44vh;
+  margin-left: -32vw;
+  width: 84vw;
 }
 .field_78 {
   position: absolute;
