@@ -24,6 +24,8 @@ main {
 .field_3 {
   position: absolute;
   z-index: 1;
+  margin-top: -100vh;
+  margin-left: 80vw;
 }
 .icon_12 {
   position: absolute;
@@ -34,18 +36,26 @@ main {
 .pull_1 {
   position: absolute;
   z-index: 1;
+  margin-top: -96vh;
+  margin-left: 66vw;
 }
 .pull_2 {
   position: absolute;
   z-index: 1;
+  margin-top: -100vh;
+  margin-left: 60vw;
 }
 .pull_3 {
   position: absolute;
   z-index: 1;
+  margin-top: -96vh;
+  margin-left: 61vw;
 }
 .pull_4 {
   position: absolute;
   z-index: 1;
+  margin-top: -80vh;
+  margin-left: 62vw;
 }
 .tool_1 {
   position: absolute;
@@ -90,6 +100,8 @@ main {
 .field_78 {
   position: absolute;
   z-index: 1;
+  margin-top: -100vh;
+  margin-left: 1vw;
 }
 .run_18 {
   position: absolute;
@@ -149,5 +161,5 @@ main {
   position: absolute;
   z-index: 1;
   margin-top: -100vh;
-  margin-left: 5vw;
+  margin-left: 56vw;
 }
