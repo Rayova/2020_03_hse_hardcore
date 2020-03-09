@@ -6,3 +6,12 @@ let circleAnimation = anime({
   duration: 50000,
   loop: true
 })
+
+// let runAnimation = anime({
+//   targets: run,
+//   translateX: 1500,
+//   direction: 'alternate',
+//   loop: true,
+//   easing: 'linear',
+//   duration: 5000
+// });
