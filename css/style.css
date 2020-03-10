@@ -103,73 +103,84 @@ main {
 .circle_13 {
   position: absolute;
   z-index: 1;
-  margin-top: -44vh;
-  margin-left: -32vw;
-  width: 84vw;
+  margin-top: -49vh;
+  margin-left: 0vw;
+  width: 66vw;
 }
 .field_78 {
   position: absolute;
   z-index: 1;
   margin-top: -100vh;
-  margin-left: 1vw;
+  margin-left: -5vw;
+  width: 19vw;
 }
 .run_18 {
   position: absolute;
   z-index: 1;
-  margin-top: -40vh;
-  margin-left: 5vw;
+  margin-top: -32vh;
+  margin-left: -2vw;
+  width: 3vw;
 }
 .run_181 {
   position: absolute;
   z-index: 1;
-  margin-top: -70vh;
-  margin-left: 17vw;
+  margin-top: -99vh;
+  margin-left: 19vw;
+  width: 3vw;
 }
 .run_182 {
   position: absolute;
   z-index: 1;
-  margin-top: -85vh;
-  margin-left: 40vw;
+  margin-top: -73vh;
+  margin-left: 42vw;
+  width: 3vw;
 }
 .run_183 {
   position: absolute;
   z-index: 1;
-  margin-top: -120vh;
-  margin-left: 55vw;
+  margin-top: -32vh;
+  margin-left: 66vw;
+  width: 3vw;
 }
 .run_184 {
   position: absolute;
   z-index: 1;
-  margin-top: -16vh;
-  margin-left: 80vw;
+  margin-top: -53vh;
+  margin-left: 15vw;
+  width: 3vw;
 }
 .run_185 {
   position: absolute;
   z-index: 1;
-  margin-top: -45vh;
-  margin-left: 80vw;
+  margin-top: -68vh;
+  margin-left: 1vw;
+  width: 3vw;
 }
 .run_186 {
   position: absolute;
   z-index: 1;
-  margin-top: -30vh;
-  margin-left: 68vw;
+  margin-top: -25vh;
+  margin-left: 34vw;
+  width: 3vw;
 }
 .run_187 {
   position: absolute;
   z-index: 1;
-  margin-top: -90vh;
-  margin-left: 78vw;
+  width: 3vw;
+  margin-top: -95vh;
+  margin-left: 44vw;
 }
 .run_188 {
   position: absolute;
   z-index: 1;
-  margin-top: -15vh;
-  margin-left: 5vw;
+  margin-top: -81vh;
+  margin-left: 18vw;
+  width: 3vw;
 }
 .run_189 {
   position: absolute;
   z-index: 1;
-  margin-top: -100vh;
+  margin-top: -57vh;
   margin-left: 56vw;
+  width: 3vw;
 }
