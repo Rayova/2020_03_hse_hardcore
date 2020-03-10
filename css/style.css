@@ -17,6 +17,24 @@ main {
   height: 100vh;
   cursor: url("../img/cursor6.png"), auto;
 }
+
+@keyframes move-run-back {
+    from {background-position:0 0;}
+    to {background-position:10000px 0;}
+}
+@-webkit-keyframes move-run-back {
+    from {background-position:0 0;}
+    to {background-position:10000px 0;}
+}
+@-moz-keyframes move-run-back {
+    from {background-position:0 0;}
+    to {background-position:10000px 0;}
+}
+@-ms-keyframes move-run-back {
+    from {background-position: 0;}
+    to {background-position:10000px 0;}
+}
+
 .bar_14 {
   position: absolute;
   z-index: 1;
@@ -104,7 +122,7 @@ main {
   position: absolute;
   z-index: 1;
   margin-top: -49vh;
-  margin-left: 0vw;
+  margin-left: -3vw;
   width: 66vw;
 }
 .field_78 {
@@ -183,4 +201,10 @@ main {
   margin-top: -57vh;
   margin-left: 56vw;
   width: 3vw;
+
+  -moz-animation:move-run-back 200s linear infinite;
+  -ms-animation:move-run-back 200s linear infinite;
+  -o-animation:move-run-back 200s linear infinite;
+  -webkit-animation:move-run-back 200s linear infinite;
+  animation:move-run-back 200s linear infinite;
 }
