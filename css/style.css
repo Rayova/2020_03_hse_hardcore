@@ -18,126 +18,132 @@ main {
   cursor: url("../img/cursor6.png"), auto;
 }
 
-@keyframes move-run-back {
-    from {background-position:0 0;}
-    to {background-position:10000px 0;}
-}
-@-webkit-keyframes move-run-back {
-    from {background-position:0 0;}
-    to {background-position:10000px 0;}
-}
-@-moz-keyframes move-run-back {
-    from {background-position:0 0;}
-    to {background-position:10000px 0;}
-}
-@-ms-keyframes move-run-back {
-    from {background-position: 0;}
-    to {background-position:10000px 0;}
-}
-
 .bar_14 {
   position: absolute;
-  z-index: 1;
-  margin-top: -16vh;
-  margin-left: 48vw;
-}
+  z-index: 2;
+  margin-top: -42vh;
+  margin-left: 36vw;
+  width: 33vw;
 }
 .field_3 {
   position: absolute;
-  z-index: 1;
+  z-index: 2;
+  width: 12vw;
   margin-top: -100vh;
-  margin-left: 80vw;
+  margin-left: 58vw;
 }
 .icon_12 {
   position: absolute;
-  z-index: 1;
-  margin-top: -9vh;
-  margin-left: 3vw;
+  z-index: 2;
+  margin-top: -37vh;
+  margin-left: 1vw;
+  width: 3vw
 }
 .pull_1 {
   position: absolute;
-  z-index: 1;
-  margin-top: -96vh;
-  margin-left: 66vw;
+  z-index: 2;
+  margin-top: -98vh;
+  margin-left: 50vw;
+  width: 4vw;
 }
 .pull_2 {
   position: absolute;
-  z-index: 1;
+  z-index: 2;
   margin-top: -100vh;
-  margin-left: 60vw;
+  margin-left: 46vw;
+  width: 12vw;
 }
 .pull_3 {
   position: absolute;
-  z-index: 1;
-  margin-top: -96vh;
-  margin-left: 61vw;
+  z-index: 2;
+  margin-top: -94vh;
+  margin-left: 46vw;
+  width: 3vw;
 }
 .pull_4 {
   position: absolute;
-  z-index: 1;
+  z-index: 2;
   margin-top: -80vh;
-  margin-left: 62vw;
+  margin-left: 47vw;
+  width: 1vw;
 }
 .tool_1 {
   position: absolute;
-  z-index: 1;
+  z-index: 2;
+  margin-top: -40vh;
+  margin-left: 44vw;
+  width: 5vw;
 }
 .tool_2 {
   position: absolute;
-  z-index: 1;
+  z-index: 2;
+  margin-top: -40vh;
+  margin-left: 50vw;
+  width: 6vw;
 }
 .tool_3 {
   position: absolute;
-  z-index: 1;
+  z-index: 2;
+  margin-top: -40vh;
+  margin-left: 57vw;
+  width: 5vw;
 }
 .tool_4 {
   position: absolute;
-  z-index: 1;
+  z-index: 2;
+  margin-top: -40vh;
+  margin-left: 63vw;
+  width: 5vw;
 }
 .rect_1 {
   position: absolute;
-  z-index: 1;
-  margin-top: -62vh;
-  margin-left: 95vw;
+  z-index: 2;
+  margin-top: -75vh;
+  margin-left: 67vw;
+  width: 2vw;
 }
 .rect_2 {
   position: absolute;
-  z-index: 1;
-  margin-top: -45vh;
-  margin-left: 90vw;
+  z-index: 2;
+  margin-top: -63vh;
+  margin-left: 64vw;
+  width: 2vw;
 }
 .rect_3 {
   position: absolute;
-  z-index: 1;
-  margin-top: -37vh;
-  margin-left: 85vw;
+  z-index: 2;
+  margin-top: -57vh;
+  margin-left: 61vw;
+  width: 2vw;
 }
 .blocks_11 {
   position: absolute;
-  z-index: 1;
-  margin-top: -58vh;
+  z-index: 2;
+  margin-top: -68vh;
   margin-left: 0vw;
+  width: 1vw;
 }
 .circle_13 {
   position: absolute;
-  z-index: 1;
-  margin-top: -49vh;
-  margin-left: -3vw;
-  width: 66vw;
+  z-index: 2;
+  margin-top: -57vh;
+  margin-left: 0vw;
+  width: 68vw;
 }
 .field_78 {
   position: absolute;
-  z-index: 1;
+  z-index: 2;
   margin-top: -100vh;
-  margin-left: -5vw;
+  margin-left: 0vw;
   width: 19vw;
 }
 .run_18 {
   position: absolute;
   z-index: 1;
-  margin-top: -32vh;
+  margin-top: -39vh;
   margin-left: -2vw;
   width: 3vw;
+  animation: runner 10s linear infinite;
 }
 .run_181 {
   position: absolute;
@@ -145,6 +151,7 @@ main {
   margin-top: -99vh;
   margin-left: 19vw;
   width: 3vw;
+  animation: runner 12s linear infinite;
 }
 .run_182 {
   position: absolute;
@@ -152,6 +159,7 @@ main {
   margin-top: -73vh;
   margin-left: 42vw;
   width: 3vw;
+  animation: runner 11s linear infinite;
 }
 .run_183 {
   position: absolute;
@@ -159,6 +167,7 @@ main {
   margin-top: -32vh;
   margin-left: 66vw;
   width: 3vw;
+  animation: runner 9s linear infinite;
 }
 .run_184 {
   position: absolute;
@@ -166,13 +175,15 @@ main {
   margin-top: -53vh;
   margin-left: 15vw;
   width: 3vw;
+  animation: runner 12s linear infinite;
 }
 .run_185 {
   position: absolute;
   z-index: 1;
-  margin-top: -68vh;
+  margin-top: -62vh;
   margin-left: 1vw;
   width: 3vw;
+  animation: runner 11s linear infinite;
 }
 .run_186 {
   position: absolute;
@@ -180,6 +191,7 @@ main {
   margin-top: -25vh;
   margin-left: 34vw;
   width: 3vw;
+  animation: runner 10s linear infinite;
 }
 .run_187 {
   position: absolute;
@@ -187,6 +199,7 @@ main {
   width: 3vw;
   margin-top: -95vh;
   margin-left: 44vw;
+  animation: runner 12s linear infinite;
 }
 .run_188 {
   position: absolute;
@@ -194,6 +207,7 @@ main {
   margin-top: -81vh;
   margin-left: 18vw;
   width: 3vw;
+  animation: runner 9s linear infinite;
 }
 .run_189 {
   position: absolute;
@@ -201,10 +215,29 @@ main {
   margin-top: -57vh;
   margin-left: 56vw;
   width: 3vw;
+  animation: runner 10s linear infinite;
+}
 
-  -moz-animation:move-run-back 200s linear infinite;
-  -ms-animation:move-run-back 200s linear infinite;
-  -o-animation:move-run-back 200s linear infinite;
-  -webkit-animation:move-run-back 200s linear infinite;
-  animation:move-run-back 200s linear infinite;
+@keyframes runner {
+  from {
+    transform: translateX(0px);
+  }
+  to {
+    transform: translateX(5000px);
+  }
+  0% {
+    opacity: 100%;
+  }
+  15% {
+    opacity: 10%;
+  }
+  30% {
+    opacity: 0%;
+  }
+  50% {
+    opacity: 50%;
+  }
+  100% {
+    opacity: 100%;
+  }
 }
