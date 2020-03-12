@@ -9,14 +9,14 @@ let circleAnimation = anime({
 
 
 // // icon_12
-let iconAnimation = anime ({
-  targets: icon,
-  rotate: [0, 360],
-  autoplay: false,
-  duration: 2000
-})
-let icon01 = document.getElementById('icon')
-icon01.onclick = iconAnimation.play
+// let iconAnimation = anime ({
+//   targets: icon,
+//   rotate: [0, 360],
+//   autoplay: false,
+//   duration: 2000
+// })
+// let icon01 = document.getElementById('icon')
+// icon01.onclick = iconAnimation.play
 
 // alert не работает
 function myFunction() {
@@ -27,14 +27,25 @@ function myFunction() {
 }
 
 // кнопАчка больше не вертится
-var blocks = document.querySelector('.blocks');
-var icon = document.querySelector('.icon');
+let blocks = document.querySelector('.blocks');
+let icon = document.querySelector('.icon');
 blocks.style.display = 'none'
-
 
 icon.addEventListener("click",      function() {
 
     if(blocks.style.display == 'none')  blocks.style.display = 'block';
     else blocks.style.display = 'none'
+
+  });
+
+// не работают на клик
+let rectangles = document.querySelector('.rectangles');
+let tool2 = document.querySelector('.tool2');
+rectangles.style.display = 'none'
+
+tool2.addEventListener("click",      function() {
+
+    if(rectangles.style.display == 'none')  rectangles.style.display = 'block';
+    else rectangles.style.display = 'none'
 
   });
