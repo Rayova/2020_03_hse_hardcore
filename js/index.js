@@ -16,3 +16,8 @@ let iconAnimation = anime ({
 })
 let icon01 = document.getElementById('icon')
 icon01.onclick = iconAnimation.play
+// alert
+let guest = prompt("Please enter your name", "Hot Stuff");
+if (guest != null) {
+  document.getElementById("name") = guest;
+}

@@ -3,7 +3,7 @@
 @font-face {
   font-family: "7TH"
   font-weight: bold;
-  scr: url(../fonts/7TH.TTf) format('truetype');
+  src: url(../fonts/7TH.TTf) format('truetype');
 }
 
 body {
@@ -16,6 +16,13 @@ main {
   width: 100vw;
   height: 100vh;
   cursor: url("../img/cursor6.png"), auto;
+}
+
+p {
+  background-color: white;
+  font-size: 4vw;
+  font-family: "PT Mono";
+  src:url(https://fonts.google.com/specimen/PT+Mono) format('truetype');
 }
 
 .bar_14 {
