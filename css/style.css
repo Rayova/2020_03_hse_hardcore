@@ -8,7 +8,7 @@
 
 body {
   overflow: hidden;
-  background-color: #000000;
+  background-color: black;
 }
 
 main {
@@ -16,13 +16,6 @@ main {
   width: 100vw;
   height: 100vh;
   cursor: url("../img/cursor6.png"), auto;
-}
-
-p {
-  background-color: white;
-  font-size: 4vw;
-  font-family: "PT Mono";
-  src:url(https://fonts.google.com/specimen/PT+Mono) format('truetype');
 }
 
 .bar_14 {
@@ -224,8 +217,11 @@ p {
   width: 3vw;
   animation: runner 10s linear infinite;
 }
-
-@keyframes runner {
+p{
+  color: white;
+  font-size: 20vw;
+}
+/* @keyframes runner {
   from {
     transform: translateX(0px);
   }
@@ -247,4 +243,4 @@ p {
   100% {
     opacity: 100%;
   }
-}
+} */
