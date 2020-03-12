@@ -223,6 +223,7 @@ p{
   position: absolute;
   top: 25px;
   font-family: "PT Mono";
+  text-transform: uppercase;
   left: 3125px;
 }
 @keyframes runner {

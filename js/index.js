@@ -18,11 +18,23 @@ let iconAnimation = anime ({
 let icon01 = document.getElementById('icon')
 icon01.onclick = iconAnimation.play
 
-// alert
+// alert не работает
 function myFunction() {
-  let guest = prompt("Please enter your name", "Hot stuff");
-  if (guest != null) {
-    document.getElementById("guest").innerHTML = guest
+  let guest1 = prompt("Please enter your name", "Hot stuff");
+  if (guest1 != null) {
+    document.getElementById("guest").innerHTML = guest1
   }
-  return guest
 }
+
+// кнопАчка больше не вертится
+var blocks = document.querySelector('.blocks');
+var icon = document.querySelector('.icon');
+blocks.style.display = 'none'
+
+
+icon.addEventListener("click",      function() {
+
+    if(blocks.style.display == 'none')  blocks.style.display = 'block';
+    else blocks.style.display = 'none'
+
+  });
