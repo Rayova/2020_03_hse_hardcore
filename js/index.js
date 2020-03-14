@@ -37,15 +37,3 @@ icon.addEventListener("click",      function() {
     else blocks.style.display = 'none'
 
   });
-
-// не работают на клик
-let rectangles = document.querySelector('.rectangles');
-let tool2 = document.querySelector('.tool2');
-rectangles.style.display = 'none'
-
-tool2.addEventListener("click",      function() {
-
-    if(rectangles.style.display == 'none')  rectangles.style.display = 'block';
-    else rectangles.style.display = 'none'
-
-  });

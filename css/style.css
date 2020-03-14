@@ -67,6 +67,28 @@ main {
   margin-left: 47vw;
   width: 1vw;
 }
+.pull_5 {
+  position: absolute;
+  z-index: 2;
+  margin-top: -82vh;
+  margin-left: 47vw;
+  width: 1vw;
+}
+.pull_6 {
+  position: absolute;
+  z-index: 2;
+  margin-top: -84vh;
+  margin-left: 47vw;
+  width: 1vw;
+}
+.pull_7 {
+  position: absolute;
+  z-index: 2;
+  margin-top: -86vh;
+  margin-left: 47vw;
+  width: 1vw;
+  animation: blink 1s linear infinite;
+}
 .tool_1 {
   position: absolute;
   z-index: 2;
@@ -226,6 +248,25 @@ p{
   text-transform: uppercase;
   left: 3125px;
 }
+.disc {
+  color: #00E3FF;
+  font-size: 75px;
+  position: absolute;
+  top: 114px;
+  font-family: "PT Mono";
+  left: 58px;
+  z-index: 2;
+}
+.text {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  z-index: 2;
+  top: 130px;
+  font-family: "PT Mono";
+  text-transform: uppercase;
+  left: 58px;
+}
 @keyframes runner {
   from {
     transform: translateX(0px);
@@ -241,6 +282,17 @@ p{
   }
   30% {
     opacity: 0%;
+  }
+  50% {
+    opacity: 50%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+@keyframes blink {
+  0% {
+    opacity: 100%;
   }
   50% {
     opacity: 50%;
