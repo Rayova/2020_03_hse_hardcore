@@ -87,7 +87,7 @@ main {
   margin-top: -86vh;
   margin-left: 47vw;
   width: 1vw;
-  animation: blink 1s linear infinite;
+  animation: blink 1s infinite;
 }
 .tool_1 {
   position: absolute;
@@ -146,10 +146,10 @@ main {
   width: 1vw;
 }
 .circle_13 {
-  position: absolute;
-  z-index: 2;
-  margin-top: -57vh;
-  margin-left: 0vw;
+  position: fixed;
+  z-index: -1;
+  bottom: 0;
+  left: 50%;
   width: 68vw;
 }
 .field_78 {
@@ -295,7 +295,7 @@ p{
     opacity: 100%;
   }
   50% {
-    opacity: 50%;
+    opacity: 0%;
   }
   100% {
     opacity: 100%;
