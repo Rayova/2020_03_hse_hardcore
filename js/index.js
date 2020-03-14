@@ -18,12 +18,12 @@ let circleAnimation = anime({
 // icon01.onclick = iconAnimation.play
 
 // alert не работает
-function myFunction() {
+
   let guest1 = prompt("Please enter your name", "Hot stuff");
   if (guest1 != null) {
     document.getElementById("guest").innerHTML = guest1
   }
-}
+
 
 // кнопАчка больше не вертится
 let blocks = document.querySelector('.blocks');
