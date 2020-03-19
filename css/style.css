@@ -557,7 +557,257 @@ p{
   }
 
 }
-@media (max-width: 375px)
+@media (max-width: 375px) {
+  .bar_14 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 223px;
+    margin-left: 96px;
+    width: 122vw;
+}
+  .field_3 {
+    position: absolute;
+    z-index: 2;
+    width: 52vw;
+    margin-top: -664px;
+    margin-left: 373px;
+}
+  .icon_12 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 276px;
+    margin-left: 12px;
+    width: 14vw;
+  }
+  .pull_1 {
+    position: absolute;
+    z-index: 2;
+    margin-top: -98vh;
+    margin-left: 307px;
+    width: 61px;
+  }
+  .pull_2 {
+    position: absolute;
+    z-index: 2;
+    margin-top: -100vh;
+    margin-left: 240px;
+    width: 193px;
+  }
+  .pull_3 {
+    position: absolute;
+    z-index: 2;
+    margin-top: -583px;
+    margin-left: 376px;
+    width: 34px;
+  }
+  .pull_4 {
+    position: absolute;
+    z-index: 2;
+    margin-top: -493px;
+    margin-left: 385px;
+    width: 15px;
+  }
+  .pull_5 {
+    position: absolute;
+    z-index: 2;
+    margin-top: -508px;
+    margin-left: 385px;
+    width: 15px;
+  }
+  .pull_6 {
+    position: absolute;
+    z-index: 2;
+    margin-top: -523px;
+    margin-left: 385px;
+    width: 15px;
+  }
+  .pull_7 {
+    position: absolute;
+    z-index: 2;
+    margin-top: -538px;
+    margin-left: 385px;
+    width: 15px;
+    animation: blink 1s infinite;
+  }
+  .tool_1 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 243px;
+    margin-left: 190px;
+    width: 83px;
+  }
+  .tool_2 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 242px;
+    margin-left: 273px;
+    width: 98px;
+  }
+  .tool_3 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 243px;
+    margin-left: 372px;
+    width: 82px;
+  }
+  .tool_4 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 239px;
+    margin-left: 460px;
+    width: 85px;
+  }
+  .rect_1 {
+    position: absolute;
+    z-index: 2;
+    margin-top: -87px;
+    margin-left: 521px;
+    width: 9vw;
+  }
+  .rect_2 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 25px;
+    margin-left: 471px;
+    width: 9vw;
+  }
+  .rect_3 {
+    position: absolute;
+    z-index: 2;
+    margin-top: 79px;
+    margin-left: 421px;
+    width: 9vw;
+  }
+  .blocks_11 {
+    position: absolute;
+    z-index: 2;
+    margin-top: -221px;
+    margin-left: 0vw;
+    width: 6vw;
+  }
+  .circle_13 {
+    position: fixed;
+    z-index: 0;
+    bottom: 114px;
+    left: -96px;
+    width: 201vw;
+  }
+  .field_78 {
+    position: absolute;
+    z-index: 2;
+    margin-top: -664px;
+    margin-left: 5px;
+    width: 79vw;
+  }
+  .run_18 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 23vh;
+    margin-left: 1vw;
+    width: 10vw;
+    animation: runner 10s linear infinite;
+  }
+  .run_181 {
+    position: absolute;
+    z-index: 1;
+    margin-top: -1vh;
+    margin-left: 98vw;
+    width: 10vw;
+    animation: runner 12s linear infinite;
+  }
+  .run_182 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 11vh;
+    margin-left: 42vw;
+    width: 10vw;
+    animation: runner 11s linear infinite;
+  }
+  .run_183 {
+    position: absolute;
+    z-index: 1;
+    margin-top: -15vh;
+    margin-left: 1vw;
+    width: 10vw;
+    animation: runner 9s linear infinite;
+  }
+  .run_184 {
+    position: absolute;
+    z-index: 1;
+    margin-top: -41vh;
+    margin-left: 95vw;
+    width: 10vw;
+    animation: runner 12s linear infinite;
+  }
+  .run_185 {
+    position: absolute;
+    z-index: 1;
+    margin-top: -53vh;
+    margin-left: 10vw;
+    width: 10vw;
+    animation: runner 11s linear infinite;
+  }
+  .run_186 {
+    position: absolute;
+    z-index: 1;
+    margin-top: -25vh;
+    margin-left: 34vw;
+    width: 10vw;
+    animation: runner 10s linear infinite;
+  }
+  .run_187 {
+    position: absolute;
+    z-index: 1;
+    width: 10vw;
+    margin-top: -97vh;
+    margin-left: 44vw;
+    animation: runner 12s linear infinite;
+  }
+  .run_188 {
+    position: absolute;
+    z-index: 1;
+    margin-top: -81vh;
+    margin-left: 123vw;
+    width: 10vw;
+    animation: runner 9s linear infinite;
+  }
+  .run_189 {
+    position: absolute;
+    z-index: 1;
+    margin-top: 36vh;
+    margin-left: 56vw;
+    width: 10vw;
+    animation: runner 10s linear infinite;
+  }
+  p{
+    color: white;
+    font-size: 2vw;
+    position: absolute;
+    top: 25px;
+    font-family: "PT Mono";
+    text-transform: uppercase;
+    left: 3125px;
+  }
+  .disc {
+    color: #00E3FF;
+    font-size: 20px;
+    position: absolute;
+    top: 16px;
+    font-family: "PT Mono";
+    left: 18px;
+    z-index: 2;
+  }
+  .text {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    z-index: 2;
+    top: 130px;
+    font-family: "PT Mono";
+    text-transform: uppercase;
+    left: 58px;
+  }
+}
 @media (max-width: 414px)
 @media (max-width: 768px)
 @media (max-width: 1024px)
