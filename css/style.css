@@ -271,12 +271,12 @@ p{
   text-transform: uppercase;
   left: 58px;
 }
-/* @keyframes runner {
+@keyframes runner {
   from {
     transform: translateX(0px);
   }
   to {
-    transform: translateX(5000px);
+    transform: translateX(150px);
   }
   0% {
     opacity: 100%;
@@ -293,7 +293,7 @@ p{
   100% {
     opacity: 100%;
   }
-} */
+}
 @keyframes blink {
   0% {
     opacity: 100%;
@@ -517,7 +517,7 @@ p{
     margin-top: -81vh;
     margin-left: 123vw;
     width: 10vw;
-    animation: runner 9s linear infinite;
+    animation: runner 3s linear infinite;
   }
   .run_189 {
     position: absolute;
@@ -525,7 +525,7 @@ p{
     margin-top: 36vh;
     margin-left: 56vw;
     width: 10vw;
-    animation: runner 10s linear infinite;
+    animation: runner 20s linear infinite;
   }
   p{
     color: white;
@@ -729,7 +729,7 @@ p{
     margin-top: -15vh;
     margin-left: 1vw;
     width: 10vw;
-    animation: runner 9s linear infinite;
+    animation: runner 3s linear infinite;
   }
   .run_184 {
     position: absolute;
@@ -769,7 +769,7 @@ p{
     margin-top: -81vh;
     margin-left: 123vw;
     width: 10vw;
-    animation: runner 9s linear infinite;
+    animation: runner 3s linear infinite;
   }
   .run_189 {
     position: absolute;
@@ -980,7 +980,7 @@ p{
     margin-top: -15vh;
     margin-left: 1vw;
     width: 10vw;
-    animation: runner 9s linear infinite;
+    animation: runner 3s linear infinite;
   }
   .run_184 {
     position: absolute;
@@ -996,7 +996,7 @@ p{
     margin-top: -53vh;
     margin-left: 10vw;
     width: 10vw;
-    animation: runner 11s linear infinite;
+    animation: runner 5s linear infinite;
   }
   .run_186 {
     position: absolute;
@@ -1020,7 +1020,7 @@ p{
     margin-top: -81vh;
     margin-left: 123vw;
     width: 10vw;
-    animation: runner 9s linear infinite;
+    animation: runner 3s linear infinite;
   }
   .run_189 {
     position: absolute;
@@ -1223,7 +1223,7 @@ p{
     margin-top: 11vh;
     margin-left: 42vw;
     width: 10vw;
-    animation: runner 11s linear infinite;
+    animation: runner 5s linear infinite;
   }
   .run_183 {
     position: absolute;
@@ -1247,7 +1247,7 @@ p{
     margin-top: -53vh;
     margin-left: 10vw;
     width: 10vw;
-    animation: runner 11s linear infinite;
+    animation: runner 5s linear infinite;
   }
   .run_186 {
     position: absolute;
@@ -1474,7 +1474,7 @@ p{
     margin-top: 11vh;
     margin-left: 42vw;
     width: 10vw;
-    animation: runner 11s linear infinite;
+    animation: runner 5s linear infinite;
   }
   .run_183 {
     position: absolute;
@@ -1498,7 +1498,7 @@ p{
     margin-top: -53vh;
     margin-left: 10vw;
     width: 10vw;
-    animation: runner 11s linear infinite;
+    animation: runner 5s linear infinite;
   }
   .run_186 {
     position: absolute;
