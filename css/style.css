@@ -1806,13 +1806,13 @@ p{
   }
   .text {
     color: white;
-    font-size: 30px;
+    font-size: 23px;
     position: absolute;
-    z-index: 2;
-    top: 130px;
+    top: 12px;
     font-family: "PT Mono";
     text-transform: uppercase;
-    left: 58px;
+    left: 1302px;
+    text-align: center;
   }
 }
 @media (min-width: 2880px)
