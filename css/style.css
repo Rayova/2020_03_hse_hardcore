@@ -1564,162 +1564,162 @@ p{
 @media (min-width: 1024px) {
 
 }
-@media (min-width: 1280px) {
+@media (min-width: 1280px) and (min-width: 800px) {
   .bar_14 {
     position: absolute;
     z-index: 2;
-    margin-top: 153px;
-    margin-left: 270px;
-    width: 97vw;
+    margin-top: -11px;
+    margin-left: 814px;
+    width: 50vw;
 }
   .field_3 {
     position: absolute;
     z-index: 2;
-    width: 41vw;
-    margin-top: -1024px;
-    margin-left: 702px;
+    width: 21vw;
+    margin-top: -798px;
+    margin-left: 1207px;
 }
   .icon_12 {
     position: absolute;
     z-index: 2;
-    margin-top: 210px;
-    margin-left: 5px;
-    width: 12vw;
+    margin-top: 43px;
+    margin-left: 27px;
+    width: 5vw;
   }
   .pull_1 {
     position: absolute;
     z-index: 2;
     margin-top: -98vh;
-    margin-left: 569px;
+    margin-left: 1069px;
     width: 100px;
   }
   .pull_2 {
     position: absolute;
     z-index: 2;
     margin-top: -100vh;
-    margin-left: 476px;
+    margin-left: 976px;
     width: 283px;
   }
   .pull_3 {
     position: absolute;
     z-index: 2;
-    margin-top: -900px;
-    margin-left: 680px;
+    margin-top: -677px;
+    margin-left: 1000px;
     width: 54px;
   }
   .pull_4 {
     position: absolute;
     z-index: 2;
-    margin-top: -757px;
-    margin-left: 694px;
+    margin-top: -533px;
+    margin-left: 1014px;
     width: 25px;
   }
   .pull_5 {
     position: absolute;
     z-index: 2;
-    margin-top: -782px;
-    margin-left: 694px;
+    margin-top: -556px;
+    margin-left: 1014px;
     width: 25px;
   }
   .pull_6 {
     position: absolute;
     z-index: 2;
-    margin-top: -807px;
-    margin-left: 694px;
+    margin-top: -579px;
+    margin-left: 1014px;
     width: 25px;
   }
   .pull_7 {
     position: absolute;
     z-index: 2;
-    margin-top: -832px;
-    margin-left: 694px;
+    margin-top: -604px;
+    margin-left: 1014px;
     width: 25px;
     animation: blink 1s infinite;
   }
   .tool_1 {
     position: absolute;
     z-index: 2;
-    margin-top: 182px;
-    margin-left: 428px;
-    width: 121px;
+    margin-top: 10px;
+    margin-left: 978px;
+    width: 95px;
   }
   .tool_2 {
     position: absolute;
     z-index: 2;
-    margin-top: 182px;
-    margin-left: 566px;
-    width: 138px;
+    margin-top: 10px;
+    margin-left: 1090px;
+    width: 110px;
   }
   .tool_3 {
     position: absolute;
     z-index: 2;
-    margin-top: 181px;
-    margin-left: 720px;
-    width: 119px;
+    margin-top: 9px;
+    margin-left: 1217px;
+    width: 94px;
   }
   .tool_4 {
     position: absolute;
     z-index: 2;
-    margin-top: 173px;
-    margin-left: 869px;
-    width: 125px;
+    margin-top: 7px;
+    margin-left: 1337px;
+    width: 94px;
   }
   .rect_1 {
     position: absolute;
     z-index: 2;
-    margin-top: -277px;
-    margin-left: 950px;
-    width: 6vw;
+    margin-top: -361px;
+    margin-left: 1411px;
+    width: 3vw;
   }
   .rect_2 {
     position: absolute;
     z-index: 2;
-    margin-top: -127px;
-    margin-left: 878px;
-    width: 6vw;
+    margin-top: -231px;
+    margin-left: 1361px;
+    width: 3vw;
   }
   .rect_3 {
     position: absolute;
     z-index: 2;
-    margin-top: -57px;
-    margin-left: 806px;
-    width: 6vw;
+    margin-top: -169px;
+    margin-left: 1311px;
+    width: 3vw;
   }
   .blocks_11 {
     position: absolute;
     z-index: 2;
     margin-top: -390px;
     margin-left: 0vw;
-    width: 4vw;;
+    width: 2vw;
   }
   .circle_13 {
     position: fixed;
     z-index: 0;
-    bottom: -689px;
-    left: -156px;
-    width: 175vw;
+    bottom: -986px;
+    left: 70px;
+    width: 107vw;
   }
   .field_78 {
     position: absolute;
     z-index: 2;
-    margin-top: -1024px;
-    margin-left: 3px;
-    width: 67vw;
+    margin-top: -796px;
+    margin-left: 6px;
+    width: 29vw;
   }
   .run_18 {
     position: absolute;
     z-index: 1;
-    margin-top: 23vh;
-    margin-left: 1vw;
-    width: 10vw;
+    margin-top: -74vh;
+    margin-left: 101vw;
+    width: 64px;
     animation: runner 10s linear infinite;
   }
   .run_181 {
     position: absolute;
     z-index: 1;
-    margin-top: -1vh;
-    margin-left: 98vw;
-    width: 10vw;
+    margin-top: -16vh;
+    margin-left: 60vw;
+    width: 64px;
     animation: runner 12s linear infinite;
   }
   .run_182 {
@@ -1727,15 +1727,15 @@ p{
     z-index: 1;
     margin-top: 11vh;
     margin-left: 42vw;
-    width: 10vw;
+    width: 54px;
     animation: runner 11s linear infinite;
   }
   .run_183 {
     position: absolute;
     z-index: 1;
-    margin-top: -15vh;
+    margin-top: -4vh;
     margin-left: 1vw;
-    width: 10vw;
+    width: 64px;
     animation: runner 9s linear infinite;
   }
   .run_184 {
@@ -1743,7 +1743,7 @@ p{
     z-index: 1;
     margin-top: -41vh;
     margin-left: 95vw;
-    width: 10vw;
+    width: 64px;
     animation: runner 12s linear infinite;
   }
   .run_185 {
@@ -1751,7 +1751,7 @@ p{
     z-index: 1;
     margin-top: -53vh;
     margin-left: 10vw;
-    width: 10vw;
+    width: 64px;
     animation: runner 11s linear infinite;
   }
   .run_186 {
@@ -1759,31 +1759,31 @@ p{
     z-index: 1;
     margin-top: -25vh;
     margin-left: 34vw;
-    width: 10vw;
+    width: 64px;
     animation: runner 10s linear infinite;
   }
   .run_187 {
     position: absolute;
     z-index: 1;
-    width: 10vw;
-    margin-top: -97vh;
-    margin-left: 44vw;
+    width: 64px;
+    margin-top: -85vh;
+    margin-left: 26vw;
     animation: runner 12s linear infinite;
   }
   .run_188 {
     position: absolute;
     z-index: 1;
-    margin-top: -81vh;
-    margin-left: 123vw;
-    width: 10vw;
+    margin-top: -95vh;
+    margin-left: 49vw;
+    width: 64px;
     animation: runner 9s linear infinite;
   }
   .run_189 {
     position: absolute;
     z-index: 1;
-    margin-top: 36vh;
-    margin-left: 56vw;
-    width: 10vw;
+    margin-top: -54vh;
+    margin-left: 80vw;
+    width: 64px;
     animation: runner 10s linear infinite;
   }
   p{
@@ -1797,11 +1797,11 @@ p{
   }
   .disc {
     color: #00E3FF;
-    font-size: 20px;
+    font-size: 22px;
     position: absolute;
-    top: 21px;
+    top: 30px;
     font-family: "PT Mono";
-    left: 31px;
+    left: 41px;
     z-index: 2;
   }
   .text {
