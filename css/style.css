@@ -271,7 +271,7 @@ main {
   text-transform: uppercase;
   left: 58px;
 }
-/* @keyframes runner {
+@keyframes runner {
   from {
     transform: translateX(0px);
   }
@@ -293,7 +293,7 @@ main {
   100% {
     opacity: 100%;
   }
-} */
+}
 @keyframes blink {
   0% {
     opacity: 100%;
